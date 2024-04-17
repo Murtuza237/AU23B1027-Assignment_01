@@ -3,7 +3,7 @@ def get_name():
     return x 
 def get_tshirt():
     x=get_name()
-    y=input("which brand do you want:")
+    y=input("What brand are you looking for:")
     size=input("Which size do you want:")
     a=["puma","nike","peter england","louis viton"]
     b=["l","xl","xxl"]
